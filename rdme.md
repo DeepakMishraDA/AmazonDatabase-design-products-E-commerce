@@ -111,7 +111,7 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
     * Field Demilitation
     * Encloser and Ignore  
 1. Loading :
-    * transformed [file](#"Data\Sql-upload.txt") is placed in enviornment variable defined path 
+    * transformed [file](#"Sql-upload.txt") is placed in enviornment variable defined path 
     * my.ini file can also be changed to put desired path
     * Data Warehouse tables are designed in a **de-normalized** structure.
     (In **normalization database** the same column data cannot be repeated or in simple words there will not be any redundant data.)
