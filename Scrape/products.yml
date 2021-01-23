@@ -1,0 +1,60 @@
+name:
+    css: '#productTitle'
+    type: Text
+
+product_summary:
+    css: '#productDetails_techSpec_section_1 tr'
+    multiple: true
+    type: Text
+    children:
+        info:
+            css: th
+            type: Text
+        value:
+            css: td
+            type: Text
+
+product_details:
+    css: '#productDetails_techSpec_section_2 tr'
+    multiple: true
+    type: Text
+    children:
+        info:
+            css: th
+            type: Text
+        value:
+            css: td
+            type: Text
+
+product_addl:
+    css: '#productDetails_detailBullets_sections1 tr'
+    multiple: true
+    type: Text
+    children:
+        info:
+            css: th
+            type: Text
+        value:
+            css: td
+            type: Text
+
+
+seller:
+    css: '#sellerProfileTriggerId'
+    type: Text
+
+seller_link:
+    css: '#sellerProfileTriggerId'
+    type: Link
+    
+freq_bought:
+    css: '#sims-fbt-form .a-size-base.a-link-normal'
+    type: Text
+
+freq_bought_link:
+    css: '#sims-fbt-form .a-size-base.a-link-normal'
+    type: Link
+
+link_to_all_reviews:
+    css: 'div.card-padding a.a-link-emphasis'
+    type: Link
