@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="Images\amzn.png" width=120> </p>
-> ## Overview
+
+> ## OVERVIEW
 ---
 Web-based shopping preference has created a huge demand for E-commerce websites nowadays. In this project we have focussed to create a database which can help **e-commerce optimization** to a great deal. The design of the database focuses on enabling such **big queries** which can contribute to key business aspects of conversion-rate and revenue growth. The data has been structured in scuh a way that optimization startegies such as how to enhance average order values, what bundle of products go well together for sale etc can be easily queried from the database. These factors specially in regard of German e-commerce market is important.The average order value (AOV) for Germany is **138 euros** per order online which is higher than the global average but at the same time the average conversion rate in Germany is just **2.22%**. E-commerce market is showing robust growth trends in coming years, so it may be possible to look for more oppurtunities to optimize e-commerce in Germany. I hope this project may help in this.
 
