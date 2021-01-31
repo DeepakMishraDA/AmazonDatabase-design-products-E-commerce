@@ -1,0 +1,31 @@
+A brief statistics/overview of the data we have collected:
+
+    Top 3 selling products in each product segment by customer rating.
+
+    Are they the most reviewed products as well?
+
+    How do you choose to make a decision while buying a product? Only ratings or you consider also how many people have reviewed?
+
+So, based on both of these, can you suggest to me the top 3 products in each product segment.
+
+    What are the median ratings for each product type. Can you think of any reasons why some product types have a better ratings than others? (if any)
+
+It would be nice to check it visually ( I really like bar plots, however one can choose).
+
+    What are the top 3 highest rated brands in each product segments.
+
+    As per Amazon, An “Amazon Verified Purchase” review indicates that the author of the review bought the product on Amazon. It also means that they purchased the product at full price without a discount. Unverified reviews mean that the reviewers did not purchase the product on the Amazon marketplace.'
+
+    Are there any products in top selling product list (top 10 rated product in each segment) that have been discontinued. Would be nice if you can tell the possible reasons along with.
+
+   Sometimes, the customer reviews contain the Pros and Cons of a product. What are those for top 3 most rated products in each segments. A report which creates 24 rows (3 for each product type) of Pros and Cons.
+
+How about doing it product category wise. For example, how more / less frequent is 'the sales of headphones and laptops' as compared to 'the sales of laptops and DLSRs'.
+
+Would be nice to have a comparative analysis to design sales COMBO offer.
+
+    What are the main product features that play a significant roles in Customer statisfaction. Analyse it product category wise.
+
+Customer satisfaction can be considered equivalent to Customer rating.
+
+    Are there any good products which are getting bad customer reviews / ratings lately. Would be a nice idea to exclude them from the inventory.
