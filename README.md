@@ -106,7 +106,7 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
  ## ETL Process
 
 <p align="center">
-  <img src="https://github.com/DeepakMishraDA/Database-design-products-E-commerce/blob/master/5)%20Images/etl.jpg" width=500> </p>
+  <img src="https://github.com/DeepakMishraDA/Database-design-products-E-commerce/blob/master/6)%20Images/etl.jpg" width=500> </p>
 
 1. Extraction: Csv file fetched in VScode(editor)
 1. Transformation: Following specified
