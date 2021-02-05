@@ -24,7 +24,7 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
  2. [ Scrape ](#Scrape)
  3. [ Data-process ](#Data-Process)    
  4. [ SQL ](#SQL)
- 5. [ Time-series Analysis](#Time_series_Analysis)
+ 5. [ Time-series analysis](#Time_series_analysis)
  6. [ Summary Detail ](#Summary_Detail)
 </details>
 
@@ -125,7 +125,7 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
 
 ## Time-series analysis
 <details>
-<a name="Time-series Analysis"></a>
+<a name="Time-series analysis"></a>
 <summary>Show/Hide</summary>
 </details>
 
