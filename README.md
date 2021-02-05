@@ -1,7 +1,7 @@
 <h1 align='center'>Amazon E-Commerce Database Creation</h1>
 
 <p align="center">
-  <img src="https://github.com/DeepakMishraDA/Database-design-products-E-commerce/blob/master/5)%20Images/amzn.png" width=120> </p>
+  <img src="https://github.com/DeepakMishraDA/Database-design-products-E-commerce/blob/master/6)%20Images/amzn.png" width=120> </p>
 
 > ## OVERVIEW
 ---
