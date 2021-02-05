@@ -125,7 +125,7 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
 
 ## Time-series analysis
 <details>
-<a name="Time-series analysis"></a>
+<a name="Time-series Analysis"></a>
 <summary>Show/Hide</summary>
 </details>
 
