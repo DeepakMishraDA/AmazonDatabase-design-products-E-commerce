@@ -24,7 +24,8 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
  2. [ Scrape ](#Scrape)
  3. [ Data-process ](#Data-Process)    
  4. [ SQL ](#SQL)
- 5. [ Summary Detail ](#Summary_Detail)
+ 5. [ Time-series analysis ](#Time-series analysis)
+ 6. [ Summary Detail ](#Summary_Detail)
 </details>
 
 
@@ -119,6 +120,13 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
     * Data Warehouse tables are designed in a **de-normalized** structure.
     (In **normalization database** the same column data cannot be repeated or in simple words there will not be any redundant data.)
     * Load Infile Sql command done to upload data.
+</details>
+
+
+## Time-series analysis
+<details>
+<a name="Time-series analysis"></a>
+<summary>Show/Hide</summary>
 </details>
 
 ## Summary Detail
