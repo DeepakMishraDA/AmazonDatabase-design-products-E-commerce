@@ -25,7 +25,7 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
  3. [ Data-process ](#Data-Process)    
  4. [ SQL ](#SQL)
  5. [ Time-series analysis](#Time_series_analysis)
- 6. [ Summary Detail ](#Summary_Detail)
+ 6. [ Tableau ](#Tableau)
 </details>
 
 
@@ -129,7 +129,7 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
 <summary>Show/Hide</summary>
 </details>
 
-## Summary Detail
+## Tableau Dashboard
 <details>
-<a name="Summary Detail"></a>
+<a name="Tableau Dashboard"></a>
 <summary>Show/Hide</summary>
