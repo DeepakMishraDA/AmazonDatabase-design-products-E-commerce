@@ -11,7 +11,7 @@ Web-based shopping preference has created a huge demand for E-commerce websites 
   <img src="https://github.com/DeepakMishraDA/Database-design-products-E-commerce/blob/master/7)%20Images/03%20%E2%80%A2%20220.png" width=400> </p>
   
   <p align="center">
-  <img src="https://github.com/DeepakMishraDA/Database-design-products-E-commerce/blob/master/6)%20Images/german-ecom.jpg" width=400> </p>
+  <img src="https://github.com/DeepakMishraDA/Database-design-products-E-commerce/blob/master/7)%20Images/german-ecom.jpg" width=400> </p>
 
 
 >## Table of Contents:
